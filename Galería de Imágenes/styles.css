@@ -1,5 +1,11 @@
 body {
     background-color: rgb(255, 255, 165);
+    color: white;
+    
+}
+
+a {
+    color: white;
 }
 
 .image{
