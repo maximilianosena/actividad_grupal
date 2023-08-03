@@ -21,6 +21,9 @@ a {
     color: #cee5ff;
     background-color: #005285;
     padding: 5px;
-    border-radius: 20px;
-    padding: 8px;
+    border-radius: 5px;
+    box-shadow: 2px 3px #888888;
+}
+h1 , h2 {
+    text-align: center;
 }
