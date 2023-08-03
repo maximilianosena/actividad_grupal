@@ -1,18 +1,25 @@
 body {
     background-color: rgb(255, 255, 165);
+    color: white;
+    
+}
+
+a {
+    color: white;
 }
 
 .image{
     border: 5px solid green;
     border-radius: 10px;
     height: 400px;
+    display: block;
+    margin: auto;
 }
 
 .link-button {
     text-decoration: none;
-    color: black;
-    border: 1px solid gray;
-    background-color: #f2f2f2;
+    color: #cee5ff;
+    background-color: #005285;
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
