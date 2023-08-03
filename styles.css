@@ -1,6 +1,7 @@
 body {
-    background-color: rgb(255, 255, 165);
+    background-color: rgb(230, 230, 250);
     color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .image{
